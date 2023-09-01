@@ -1,0 +1,25 @@
+*{
+  margin: 20px;
+  padding: 0;
+}
+
+
+.header{
+ border-bottom: solid 5px;
+  font-size: 35px;
+  margin-bottom: 20px;
+  margin: 10px auto;
+  justify-content: center;
+  display: flex;
+}
+
+.add{
+  font-size: 30px;
+
+  display: block;
+}
+
+img{
+  display: flex;
+  align-items: baseline
+}
